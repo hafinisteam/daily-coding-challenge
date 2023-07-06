@@ -32,4 +32,4 @@ const largestAverageWindow = (arr, k) => {
 };
 ```
 
-Link: [https://codesandbox.io/s/two-sum-t5sh65](https://codesandbox.io/s/largest-average-window-4xv74w)https://codesandbox.io/s/largest-average-window-4xv74w
+Link: https://codesandbox.io/s/largest-average-window-4xv74w
